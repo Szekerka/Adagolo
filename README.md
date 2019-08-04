@@ -1,4 +1,4 @@
-# Adagolo
+# Adagoló
 Egy adagoló szoftver arduinora.
 
 Mikroszekundumban számol de csak másodpercben jelzi ki.
